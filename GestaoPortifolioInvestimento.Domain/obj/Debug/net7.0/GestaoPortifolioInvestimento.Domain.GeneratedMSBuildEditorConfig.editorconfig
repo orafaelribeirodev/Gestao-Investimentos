@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GestaoPortifolioInvestimento.Domain
-build_property.ProjectDir = C:\Users\Rafael\Downloads\PROJETO-TESTE\GestaoPortifolioInvestimento\GestaoPortifolioInvestimento.Domain\
+build_property.ProjectDir = C:\Users\Rafael\Desktop\Nova pasta\Gestao-Investimentos\GestaoPortifolioInvestimento.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

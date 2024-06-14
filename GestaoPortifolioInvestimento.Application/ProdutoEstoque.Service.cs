@@ -44,7 +44,7 @@ namespace GestaoPortifolioInvestimento.Application
 
         public async Task<string?> Excluir(int est_id)
         {
-            return await _produtoestoque.Excluir(est_id) ? "" : "Não foi possível excluir a informação.";
+            return await _produtoestoque.Excluir(est_id) ? "" : "";
         }
 
         public async Task<GestaoPortifolioInvestimento.Application.Dto.ProdutoEstoqueDto?> Registro(int est_id)

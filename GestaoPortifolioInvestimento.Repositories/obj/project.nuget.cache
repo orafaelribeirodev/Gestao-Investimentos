@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ApkLTbxTByfuz02/14EEtX7bMbIdxpFKTgRtby9bCFWPp9s//F/zS9GZk1pS146M18QQ5RNYeB9X6ANf3sEF8g==",
+  "dgSpecHash": "vod4ZjxmprOyWf8KVBY5DNeupJTmHk0aKWD0wbSqAJlJbP+wM3Al334ox4KsV8zGVOcGJhQgrLsZ+cRTij/B4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\Downloads\\PROJETO-TESTE\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj",
+  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\Nova pasta\\Gestao-Investimentos\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -3466,11 +3466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael\\Downloads\\PROJETO-TESTE\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\Nova pasta\\Gestao-Investimentos\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj",
       "projectName": "GestaoPortifolioInvestimento.Repositories",
-      "projectPath": "C:\\Users\\Rafael\\Downloads\\PROJETO-TESTE\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj",
+      "projectPath": "C:\\Users\\Rafael\\Desktop\\Nova pasta\\Gestao-Investimentos\\GestaoPortifolioInvestimento.Repositories\\GestaoPortifolioInvestimento.Repositories.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael\\Downloads\\PROJETO-TESTE\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Repositories\\obj\\",
+      "outputPath": "C:\\Users\\Rafael\\Desktop\\Nova pasta\\Gestao-Investimentos\\GestaoPortifolioInvestimento.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3492,8 +3492,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Rafael\\Downloads\\PROJETO-TESTE\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj": {
-              "projectPath": "C:\\Users\\Rafael\\Downloads\\PROJETO-TESTE\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj"
+            "C:\\Users\\Rafael\\Desktop\\Nova pasta\\Gestao-Investimentos\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj": {
+              "projectPath": "C:\\Users\\Rafael\\Desktop\\Nova pasta\\Gestao-Investimentos\\GestaoPortifolioInvestimento.Domain\\GestaoPortifolioInvestimento.Domain.csproj"
             }
           }
         }

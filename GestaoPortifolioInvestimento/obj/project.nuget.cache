@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZKMQ8fOEJgdlnmL551ZEjghXv0X1IPuvAmYpeh+1Ybk+btbqqz6AjQ/S7TtXJgiA/wj+uTK0iQnLaap7FT9dNQ==",
+  "dgSpecHash": "xBPy9k6ImgVhcwYTx+wz7HW9vhDDCVRWpb/4cKpBeDhtxjHG91Pwpwb9/M9dbYfANh5OOXAnMFMiVfQW2Uo8dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\Downloads\\PROJETO-TESTE\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.csproj",
+  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\Nova pasta\\Gestao-Investimentos\\GestaoPortifolioInvestimento\\GestaoPortifolioInvestimento.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
